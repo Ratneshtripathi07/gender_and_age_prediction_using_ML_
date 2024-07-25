@@ -21,7 +21,7 @@ To run this project, the following dependencies are required on your local machi
 - For best results, use high-quality images with clear facial features.
 
 ## Contributing
-If you'd like to contribute to this project, feel free to submit a pull request or open an issue to discuss your ideas!
+If you'd like to contribute to this project, initiate a pull request or open an issue to discuss your ideas!
 
 ## License
 This project is licensed under the MIT License.
