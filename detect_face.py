@@ -3,7 +3,7 @@ import torch
 from torch import nn
 from torchvision import transforms, models, datasets
 
-PATH = '/Users/arshad_221b/Downloads/Projects/multi-task-learning-for-age-and-gender-/state_dict_model.pt'
+PATH = "D:\Photos-D\1. CODING june'23 onwards\Projects\age_gender_prediction_using_ml\state_dict_model.pt"
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 cap = cv2.VideoCapture(0)
